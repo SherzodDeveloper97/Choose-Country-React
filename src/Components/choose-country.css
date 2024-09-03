@@ -1,0 +1,13 @@
+.container{
+    max-width: 1200px;
+    margin: 50px auto;
+}
+.select-country button{
+    margin: 20px;
+}
+.select-country button:focus{
+    outline: 4px ridge #000 !important;
+}
+p{
+    margin-left: 20px;
+}
